@@ -18,8 +18,8 @@
 
 ```yaml
 dependencies:
-  flutter_exit_app: ^1.1.4        # 原插件，提供 API 接口
-  flutter_exit_app_ohos: ^1.0.0   # 鸿蒙化实现
+  flutter_exit_app: ^2.1.1        # 原插件，提供 API 接口
+  flutter_exit_app_ohos: ^2.1.1   # 鸿蒙化实现
 ```
 
 ### 示例代码
@@ -35,6 +35,10 @@ await FlutterExitApp.exitApp();
 ```
 
 **注意**：调用代码与原插件完全一致，无需修改现有代码。
+
+## 示例
+
+[](./example/demo.gif)
 
 ## 技术实现
 

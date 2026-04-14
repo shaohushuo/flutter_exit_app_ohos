@@ -1,6 +1,6 @@
 name: flutter_exit_app_ohos
 description: "flutter_exit_app 的鸿蒙化实现 - 为 OpenHarmony 平台提供应用退出功能。"
-version: 1.1.4
+version: 2.1.1
 homepage: https://github.com/shaohushuo/flutter_exit_app_ohos
 repository: https://github.com/shaohushuo/flutter_exit_app_ohos
 

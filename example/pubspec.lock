@@ -66,17 +66,17 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_exit_app
-      sha256: "34c2cc72a3681fa6f0439d97f408645497ac7e02219d8570997627b90f7e188d"
+      sha256: "254bb19c1cee21d9e0588c585fdc8e1546b8551d3e8d4c207235b1491de96f51"
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.4"
+    version: "2.1.1"
   flutter_exit_app_ohos:
     dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "1.0.0"
+    version: "2.1.1"
   flutter_lints:
     dependency: "direct dev"
     description:

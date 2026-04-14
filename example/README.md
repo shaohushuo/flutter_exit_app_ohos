@@ -19,6 +19,11 @@ flutter run
 
 在 OpenHarmony 平台上，应用会通过 `UIAbilityContext.terminateSelf()` 方法优雅地终止。
 
+
+## 示例
+
+[](./demo.gif)
+
 ## 参考资源
 
 如果你是第一次接触 Flutter 项目，可以参考以下资源：
