@@ -38,7 +38,7 @@ await FlutterExitApp.exitApp();
 
 ## 示例
 
-[](./example/demo.gif)
+![](./example/demo.gif)
 
 ## 技术实现
 

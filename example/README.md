@@ -22,7 +22,7 @@ flutter run
 
 ## 示例
 
-[](./demo.gif)
+![](./demo.gif)
 
 ## 参考资源
 
