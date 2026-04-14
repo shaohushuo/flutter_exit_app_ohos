@@ -1,0 +1,9 @@
+{
+  "name": "flutter_exit_app_ohos",
+  "version": "1.0.0",
+  "description": "flutter_exit_app 的鸿蒙化实现 - 为 OpenHarmony 平台提供应用退出功能",
+  "main": "index.ets",
+  "author": "nutpi-net",
+  "license": "MIT",
+  "dependencies": {}
+}
